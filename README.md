@@ -24,3 +24,4 @@ Click the badge above to open and run directly in Google Colab.
 git clone https://github.com/muhammadaliqamar/cv-rag-chatbot.git
 cd cv-rag-chatbot
 pip install -r requirements.txt
+streamlit run app.py
